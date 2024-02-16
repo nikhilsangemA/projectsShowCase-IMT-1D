@@ -1,0 +1,12 @@
+.webSiteLogo {
+  height: 50px;
+  width: 160px;
+}
+
+.navbar {
+  background-color: #f1f5f9;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
